@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CrudTest
+build_property.RootNamespace = CrudTest
+build_property.ProjectDir = F:\ProjetosNET\CrudTest\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\ProjetosNET\CrudTest
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/ProjetosNET/CrudTest/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcQXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Premiums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcUHJlbWl1bXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Premiums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcUHJlbWl1bXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Premiums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcUHJlbWl1bXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Premiums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcUHJlbWl1bXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Premiums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcUHJlbWl1bXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Premiums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Premiums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Premiums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Premiums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Premiums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetosNET/CrudTest/CadastroCursoCrud/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2FkYXN0cm9DdXJzb0NydWRcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4kzq5qexb1
+
+[F:/ProjetosNET/CrudTest/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mwivkhyhi0
